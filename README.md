@@ -1,11 +1,5 @@
 # Flight information -analysis
 
-DATE: 
-
-GITHUB LINK: https://github.com/saran7d/DS-EX-10.git
-
-COLAB LINK: https://colab.research.google.com/drive/1NVXuiyaSNIa2AyA1-P9UxAfYcm096ZPl?usp=sharing
-
 ## AIM :
 
 To Perform Bivariate/Multivariate Analysis
@@ -21,10 +15,6 @@ To Perform Bivariate/Multivariate Analysis
 4.Save the clean data to file
 
 ## PROGRAM :
-
-Developed by: Saran S S
-
-Reg no: 212221220048
 
 import pandas as pd
 
